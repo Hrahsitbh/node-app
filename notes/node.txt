@@ -1,0 +1,2 @@
+This is file created by node.js
+another data
